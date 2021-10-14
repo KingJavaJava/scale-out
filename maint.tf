@@ -1,7 +1,7 @@
 
 # Define the region, zone and project where activities will happen
 provider "google" {
-  project = "rexorioko"
+  project = ""
   region  = "us-central1"
   zone    = "us-central1-c"
 }
